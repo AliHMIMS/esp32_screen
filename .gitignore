@@ -1,0 +1,3 @@
+# Stock firmware dumps: proprietary, and contain saved WiFi credentials
+backup/
+*.bin
